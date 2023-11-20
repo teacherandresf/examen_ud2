@@ -55,7 +55,7 @@ c) Generar el formulario siguiente de acuerdo a los siguientes requisitos en el 
 Primer grupo de datos llamado "Datos personales":
 - Campo nombre, de tipo texto, con longitud máxima de 50 caracteres y validado para que solo se permitan caracteres alfabéticos en mayúscula y minúscula.
 - Campo apellidos, de tipo texto, con longitud máxima de 50 caracteres y validado para que solo se permitan caracteres alfabéticos en mayúscula y minúscula.
-- Campo número de teléfono de tipo numérico donde comprobamos que se introducen 9 dígitos.
+- Campo número de teléfono de tipo numérico donde comprobamos que se introducen 9 dígitos que empiezan por 6 o por 7.
 - Campo dni de tipo texto validado para que se escriba como 8 dígitos seguidos de una letra mayúscula o minúscula.
 - Campo correo electrónico de tipo email.
 - Campo dirección de tipo texto.
@@ -66,8 +66,21 @@ Segundo grupo de datos llamado "Detalles de la compra":
 - Campo Fecha caducidad donde se selecciona un mes de un año concreto.
 - Campo cvv de tipo number compuesto por 3 dígitos.
 
-## **3. Crea los siguientes formularios validados :**
+## **3. Páginas web HTML - 4 puntos**
 
-a) En un proceso de compra de una web dedicada a las compras al por mayor, los visitantes pueden comprar cajas de cerveza de 5 en 5, es decir pueden comprar 5 o 10 o 15 botellas, no se aceptan 0 o 2 o 7. Escribe un formulario que pida el número de cajas que el visitante quiere comprar. Los datos se enviarán por GET.
+Crea una subcarpeta dentro de la carpeta raíz del proyecto que se titule ejercicio3. Dentro de dicha carpeta realiza los siguientes apartados:
 
-b) Este formulario puede ser parte de una tienda online de compra de verduras. El usuario puede pedir tres clases de verduras de una lista: pimientos, tomates, zanahorias. Se debe usar un campo input para recoger la cantidad en forma de número seguido del nombre de una unidad que puede ser ud o kg o gr. Escribe el formulario para que solo acepte la cantidad como se indica, ejemplo: 1 ud o 2 kg o 100 gr 
+* Crea un archivo index.html que contenga la división de header, nav, main y footer.
+* Dentro del apartado header incluye un título de nivel 1 donde ponga El garaje de <i>TUNOMBRE</i>
+* Dentro del apartado nav incluye un enlace al archivo ferrari.html que debes crear.
+* En el bloque main debes incluir dentro de un divisor: 3 imágenes de coches, cada una seguida de un título de nivel 4 y un párrafo con una breve descripción que incluye un precio resaltado en color amarillo, otro tachado y un enlace: todos conducen a la página ferrari1.html.
+* En el footer inlcuye una lista sin orden con enlaces a redes sociales: página principal de facebook, de x y de instagram.
+
+Sobre el archivo ferrari1.html:
+* Debe incluir de nuevo la división header, nav, main y footer.
+* Dentro del apartado header incluye un título de nivel 1 donde ponga El garaje de <i>TUNOMBRE</i>
+* Dentro del apartado nav incluye un enlace al archivo index.html .
+* En el bloque main debes colocar un título de nivel 3 donde ponga Ferrari Purosangue
+* Incluye una foto del coche y un vídeo incrustado de youtube de ese mismo modelo.
+* Abajo incluye un menú desplegable donde ponga especificaciones y se detallen características del automóvil en formato de lista sin orden (invéntatelas).
+* Incluye el mismo footer que en el archivo anterior.
