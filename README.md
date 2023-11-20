@@ -18,10 +18,11 @@ Lee atentamente estas indicaciones generales antes de realizar esta prueba:
 Realiza los siguientes apartados sobre tablas:
 
 a) Crea el archivo tabla_ex_1.html e imita la siguiente tabla - 0,5 puntos
-![ejercicio-4-tablas](https://github.com/teacherandresf/examen_ud2/assets/145907219/0cec8535-30d0-47bf-b486-18ea3119b551)
+<img src="![ejercicio-4-tablas](https://github.com/teacherandresf/examen_ud2/assets/145907219/0cec8535-30d0-47bf-b486-18ea3119b551)" />
 
 b) Crea el archivo tabla_ex_2.html e imita la siguiente tabla - 0,5 puntos
-![ejercicio-4-tablas](https://github.com/teacherandresf/examen_ud2/assets/145907219/f89165d3-b014-4673-9666-63298d41e1f0)
+<img src="![foto_12](https://github.com/teacherandresf/examen_ud2/assets/145907219/acaa83c7-93fc-40df-9b6c-a8616ff8d44d)" />
+
 
 c) Crea una tabla que represente un control sobre tus calificaciones para las asignaturas de 1DAM que estés cursando. Para ello deberás tener una columna con el nombre de las asignaturas, y 4 columnas más (1EV, 2EV, 3EV y final). A su vez, las columnas de 1EV, 2EV Y 3EV se deben dividir en 3 columnas que serán las calificaciones de Examen 1, Examen 2 y Boletín. Añade una fila al final de todas las asignaturas que se llame Media que agrupe las 3 columnas de cada evaluación y será la media aritmética de las calificaciones boletín de cada evaluación. <b>Invéntate los datos y no hace falta que calcules la media, simplemente rellena con números del 1 al 10</b>. - 1 punto
   
