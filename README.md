@@ -51,10 +51,18 @@ b) Generar el formulario siguiente de acuerdo a los siguientes requisitos en el 
 * Contiene los siguientes checkboxes:checkbox con el name «sexo» , value «sexomujer» y el texto «Mujer», checkbox con el name «sexo» , value «sexohombre» y el texto «Hombre».
 
 c) Generar el formulario siguiente de acuerdo a los siguientes requisitos en el archivo form_ex_3.html - 1 punto
-* Primer grupo de datos:
-** Campo nombre, de tipo texto, con longitud máxima de 50 caracteres y validado para que solo se permitan caracteres alfabéticos en mayúscula y minúscula.
-** Campo apellidos, de tipo texto, con longitud máxima de 50 caracteres y validado para que solo se permitan caracteres alfabéticos en mayúscula y minúscula.
-** 
+* Primer grupo de datos llamado "Datos personales":
+- Campo nombre, de tipo texto, con longitud máxima de 50 caracteres y validado para que solo se permitan caracteres alfabéticos en mayúscula y minúscula.
+- Campo apellidos, de tipo texto, con longitud máxima de 50 caracteres y validado para que solo se permitan caracteres alfabéticos en mayúscula y minúscula.
+- Campo número de teléfono de tipo numérico donde comprobamos que se introducen 9 dígitos.
+- Campo dni de tipo texto validado para que se escriba como 8 dígitos seguidos de una letra mayúscula o minúscula.
+- Campo correo electrónico de tipo email.
+- Campo dirección de tipo texto.
+* Segundo grupo de datos llamado "Detalles de la compra":
+- Menú desplegable selector donde podrás elegir entre las opciones: envío estándar y envío express.
+- Campo tarjeta de crédito de tipo texto, validado de forma que son 4 grupo de 4 dígitos separados entre espacios: 4444 4444 4444 4444.
+- Campo Fecha caducidad donde se selecciona un mes de un año concreto.
+- Campo cvv de tipo number compuesto por 3 dígitos.
 
 ## **3. Crea los siguientes formularios validados :**
 
