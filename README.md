@@ -6,42 +6,28 @@ Lee atentamente estas indicaciones generales antes de realizar esta prueba:
 * Dentro de dicha carpeta ve creando y/o modificando los diversos archivos .html que se pidan durante el examen.
 * Debes subir a la tarea de classroom dicha carpeta como .zip: Click derecho en la carpeta, Click en "Enviar a", Click en "Carpeta comprimida (en zip)".
 * Realiza cada apartado siguiendo las indicaciones al pie de la letra. <b>Revisa la rúbrica asociada a cada ejercicio</b>.
-* Puedes acceder tanto al Glosario de etiquetas que creaste en la actividad 3, ejercicios anteriores y apuntes del tema. También son válidos los apuntes a papel.
-* <b>Queda prohibido acceder a cualquier otro tipo de material que no se indique en el apartado de arriba</b>.
+* Puedes acceder tanto al Glosario de etiquetas que creaste en la actividad 4, ejercicios anteriores y apuntes del tema. También son válidos los apuntes a papel.
+* Está permitido buscar imágenes, vídeos y/o audios en internert si así lo exige algún apartado.
+* <b>Queda prohibido acceder a cualquier otro tipo de material que no se indique en los apartados de arriba</b>.
 * Revisa el tiempo, la entrega se cierra 5 minutos antes de que termine la clase - 🕙 11:10.
 * Comprueba que los archivos son visibles desde un navegador, no confíes en el LivePreview.
 * En caso de no visualizarse alguna página, dicho apartado o ejercicio contará como un 0 <b>no revisable</b>.
 
-## **1. Formulario 1**
+## **1. Tablas - 2 puntos**
 
-Crea un archivo html con un formulario que tenga los siguientes campos de información:
+Realiza los siguientes apartados sobre tablas:
 
-* El nombre, con un control de tipo texto.
-* Los apellidos, con un control de tipo texto.
-* El sexo, con dos opciones excluyentes hombre o mujer.
-* El correo electrónico, con un control de tipo texto.
-* Una casilla de verificación con el texto "Deseo recibir información sobre novedades y ofertas".
-* Una casilla de verificación con el texto "Declaro haber leido y aceptar las condiciones generales del programa y la normativa sobre protección de datos".
-* Un botón de envío.
+a) Crea el archivo tabla_ex_1.html e imita la siguiente tabla - 0,5 puntos
+![ejercicio-4-tablas](https://github.com/teacherandresf/examen_ud2/assets/145907219/0cec8535-30d0-47bf-b486-18ea3119b551)
 
-Además, tienes que tener en cuenta los siguientes requisitos:
-* El título de la página debe ser Formulario de registro - Laguna Tollon.
-* El método de envío del formulario debe ser GET.
-* El destino del envío del formulario debe ser "".
-* La longitud máxima de entrada de datos de los controles para el nombre y los apellidos debe ser 50 caracteres.
-* La casilla de verificación con el texto "Deseo recibir información sobre novedades y ofertas" debe estar activada por defecto.
+b) Crea el archivo tabla_ex_2.html e imita la siguiente tabla - 0,5 puntos
+![ejercicio-4-tablas](https://github.com/teacherandresf/examen_ud2/assets/145907219/f89165d3-b014-4673-9666-63298d41e1f0)
 
+c) Crea una tabla que represente un control sobre tus calificaciones para las asignaturas de 1DAM que estés cursando. Para ello deberás tener una columna con el nombre de las asignaturas, y 4 columnas más (1EV, 2EV, 3EV y final). A su vez, las columnas de 1EV, 2EV Y 3EV se deben dividir en 3 columnas que serán las calificaciones de Examen 1, Examen 2 y Boletín. Añade una fila al final de todas las asignaturas que se llame Media que agrupe las 3 columnas de cada evaluación y será la media aritmética de las calificaciones boletín de cada evaluación. <b>Invéntate los datos y no hace falta que calcules la media, simplemente rellena con números del 1 al 10</b>. - 1 punto
   
-## **2. Recrea los siguientes formularios:**
+## **2. Formularios - 3 puntos**
 
-
-![imagen](https://github.com/teacherandresf/lmsgi_u2_a5/assets/145907219/16dc2bad-73df-4de4-8e72-9a8ae757c49b)
-
-
-![imagen](https://github.com/teacherandresf/lmsgi_u2_a5/assets/145907219/8e9c4035-7f0a-4841-99ae-f4f1cd923d53)
-
-
-![imagen](https://github.com/teacherandresf/lmsgi_u2_a5/assets/145907219/c5f85b34-ba68-43ff-ac55-720b060ffd3c)
+Realiza los siguientes apartados sobre formularios:
 
 
 ## **3. Crea los siguientes formularios validados :**
