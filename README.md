@@ -6,7 +6,7 @@ Lee atentamente estas indicaciones generales antes de realizar esta prueba:
 * Dentro de dicha carpeta ve creando y/o modificando los diversos archivos .html que se pidan durante el examen.
 * Debes subir a la tarea de classroom dicha carpeta como .zip: Click derecho en la carpeta, Click en "Enviar a", Click en "Carpeta comprimida (en zip)".
 * Realiza cada apartado siguiendo las indicaciones al pie de la letra. <b>Revisa la rúbrica asociada a cada ejercicio</b>.
-* Puedes acceder tanto al Glosario de etiquetas que creaste en la actividad 3, ejercicios anteriores y apuntes del tema.
+* Puedes acceder tanto al Glosario de etiquetas que creaste en la actividad 3, ejercicios anteriores y apuntes del tema. También son válidos los apuntes a papel.
 * <b>Queda prohibido acceder a cualquier otro tipo de material que no se indique en el apartado de arriba</b>.
 * Revisa el tiempo, la entrega se cierra 5 minutos antes de que termine la clase - 🕙 11:10.
 * Comprueba que los archivos son visibles desde un navegador, no confíes en el LivePreview.
