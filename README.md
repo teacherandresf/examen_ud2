@@ -13,7 +13,7 @@ Lee atentamente estas indicaciones generales antes de realizar esta prueba:
 * Comprueba que los archivos son visibles desde un navegador, no confíes en el LivePreview.
 * En caso de no visualizarse alguna página, dicho apartado o ejercicio contará como un 0 <b>no revisable</b>.
 
-## **1. Tablas - 2 puntos**
+## **1. Tablas - 2,5 puntos**
 
 Realiza los siguientes apartados sobre tablas:
 
@@ -22,14 +22,14 @@ a) Crea el archivo tabla_ex_1.html e imita la siguiente tabla - 0,5 puntos
 ![ejercicio-4-tablas](https://github.com/teacherandresf/examen_ud2/assets/145907219/0cec8535-30d0-47bf-b486-18ea3119b551)
 
 
-b) Crea el archivo tabla_ex_2.html e imita la siguiente tabla - 0,5 puntos
+b) Crea el archivo tabla_ex_2.html e imita la siguiente tabla - 1 punto
 
 ![foto_12](https://github.com/teacherandresf/examen_ud2/assets/145907219/acaa83c7-93fc-40df-9b6c-a8616ff8d44d)
 
 
 c) Crea una tabla en el archivo tabla_ex_3.html que represente un control sobre tus calificaciones para las asignaturas de 1DAM que estés cursando. Para ello deberás tener una columna con el nombre de las asignaturas, y 4 columnas más (1EV, 2EV, 3EV y final). A su vez, las columnas de 1EV, 2EV Y 3EV se deben dividir en 3 columnas que serán las calificaciones de Examen 1, Examen 2 y Boletín. Añade una fila al final de todas las asignaturas que se llame Media que agrupe las 3 columnas de cada evaluación y será la media aritmética de las calificaciones boletín de cada evaluación. <b>Invéntate los datos y no hace falta que calcules la media, simplemente rellena con números del 1 al 10</b>. Muestra los bordes de la tabla. - 1 punto
   
-## **2. Formularios - 3 puntos**
+## **2. Formularios - 3,5 puntos**
 
 Realiza los siguientes apartados sobre formularios:
 
@@ -50,15 +50,17 @@ b) Generar el formulario siguiente de acuerdo a los siguientes requisitos en el 
 * Hay un control para indicar la hora.
 * Contiene los siguientes checkboxes:checkbox con el name «sexo» , value «sexomujer» y el texto «Mujer», checkbox con el name «sexo» , value «sexohombre» y el texto «Hombre».
 
-c) Generar el formulario siguiente de acuerdo a los siguientes requisitos en el archivo form_ex_3.html - 1 punto
-* Primer grupo de datos llamado "Datos personales":
+c) Generar el formulario siguiente de acuerdo a los siguientes requisitos en el archivo form_ex_3.html - 1,5 puntos
+
+Primer grupo de datos llamado "Datos personales":
 - Campo nombre, de tipo texto, con longitud máxima de 50 caracteres y validado para que solo se permitan caracteres alfabéticos en mayúscula y minúscula.
 - Campo apellidos, de tipo texto, con longitud máxima de 50 caracteres y validado para que solo se permitan caracteres alfabéticos en mayúscula y minúscula.
 - Campo número de teléfono de tipo numérico donde comprobamos que se introducen 9 dígitos.
 - Campo dni de tipo texto validado para que se escriba como 8 dígitos seguidos de una letra mayúscula o minúscula.
 - Campo correo electrónico de tipo email.
 - Campo dirección de tipo texto.
-* Segundo grupo de datos llamado "Detalles de la compra":
+
+Segundo grupo de datos llamado "Detalles de la compra":
 - Menú desplegable selector donde podrás elegir entre las opciones: envío estándar y envío express.
 - Campo tarjeta de crédito de tipo texto, validado de forma que son 4 grupo de 4 dígitos separados entre espacios: 4444 4444 4444 4444.
 - Campo Fecha caducidad donde se selecciona un mes de un año concreto.
