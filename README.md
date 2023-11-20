@@ -52,9 +52,9 @@ b) Generar el formulario siguiente de acuerdo a los siguientes requisitos en el 
 
 c) Generar el formulario siguiente de acuerdo a los siguientes requisitos en el archivo form_ex_3.html - 1 punto
 * Primer grupo de datos:
-  ** Campo nombre, de tipo texto, con longitud máxima de 50 caracteres y validado para que solo se permitan caracteres alfabéticos en mayúscula y minúscula.
-  ** Campo apellidos, de tipo texto, con longitud máxima de 50 caracteres y validado para que solo se permitan caracteres alfabéticos en mayúscula y minúscula.
-  ** 
+** Campo nombre, de tipo texto, con longitud máxima de 50 caracteres y validado para que solo se permitan caracteres alfabéticos en mayúscula y minúscula.
+** Campo apellidos, de tipo texto, con longitud máxima de 50 caracteres y validado para que solo se permitan caracteres alfabéticos en mayúscula y minúscula.
+** 
 
 ## **3. Crea los siguientes formularios validados :**
 
