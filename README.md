@@ -5,7 +5,7 @@ Lee atentamente estas indicaciones generales antes de realizar esta prueba:
 * Crea una carpeta que se llame TUSINICIALES_EX_UD_2.
 * Dentro de dicha carpeta ve creando y/o modificando los diversos archivos .html que se pidan durante el examen.
 * Debes subir a la tarea de classroom dicha carpeta como .zip: Click derecho en la carpeta, Click en "Enviar a", Click en "Carpeta comprimida (en zip)".
-* Realiza cada apartado siguiendo las indicaciones al pie de la letra. <b>Revisa la rúbrica asociada a cada ejercicio</b>.
+* Realiza cada apartado siguiendo las indicaciones al pie de la letra.
 * Puedes acceder tanto al Glosario de etiquetas que creaste en la actividad 4, ejercicios anteriores y apuntes del tema. También son válidos los apuntes a papel.
 * Está permitido buscar imágenes, vídeos y/o audios en internert si así lo exige algún apartado.
 * <b>Queda prohibido acceder a cualquier otro tipo de material que no se indique en los apartados de arriba</b>.
