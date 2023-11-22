@@ -19,13 +19,15 @@ Realiza los siguientes apartados sobre tablas:
 
 a) Crea el archivo tabla_ex_1.html e imita la siguiente tabla - 0,5 puntos
 
-![ejercicio-4-tablas](https://github.com/teacherandresf/examen_ud2/assets/145907219/f07c05d3-436d-40fc-896e-8e341be09677)
+![ejercicio-4-tablas](https://github.com/teacherandresf/examen_ud2/assets/145907219/af115b84-a3d9-45d6-83fb-0c3b80d14923)
+
 
 
 
 b) Crea el archivo tabla_ex_2.html e imita la siguiente tabla - 1 punto
 
-![foto_12](https://github.com/teacherandresf/examen_ud2/assets/145907219/38418f65-c8c3-426d-8d99-61f5fceaeb46)
+![foto_12](https://github.com/teacherandresf/examen_ud2/assets/145907219/3edfc9d4-b788-4a91-8c76-dc49a6a977c8)
+
 
 
 
@@ -37,7 +39,8 @@ Realiza los siguientes apartados sobre formularios:
 
 a) Crea el archivo form_ex_1.html e imita el siguiente formulario. Las opciones del primer selector son: Estudiante, Profesor, Personal Laboral. La de abajo son las asignaturas de 1DAM. - 1 punto
 
-![image](https://github.com/teacherandresf/examen_ud2/assets/145907219/97fe560b-6092-4289-82dc-24bb3326a81a)
+![Captura](https://github.com/teacherandresf/examen_ud2/assets/145907219/86621f6e-8e80-4129-85e8-27661cd3a22d)
+
 
 
 b) Generar el formulario siguiente de acuerdo a los siguientes requisitos en el archivo form_ex_2.html - 1 punto
