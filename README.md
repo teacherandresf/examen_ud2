@@ -35,7 +35,7 @@ Realiza los siguientes apartados sobre formularios:
 
 a) Crea el archivo form_ex_1.html e imita el siguiente formulario. Las opciones del primer selector son: Estudiante, Profesor, Personal Laboral. La de abajo son las asignaturas de 1DAM. - 1 punto
 
-![image](https://github.com/teacherandresf/examen_ud2/assets/145907219/defb7f9e-f11c-483c-9f30-7501bd870429)
+![image](https://github.com/teacherandresf/examen_ud2/assets/145907219/97fe560b-6092-4289-82dc-24bb3326a81a)
 
 
 b) Generar el formulario siguiente de acuerdo a los siguientes requisitos en el archivo form_ex_2.html - 1 punto
